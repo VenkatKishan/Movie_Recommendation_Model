@@ -1,0 +1,15 @@
+What are Recommender System ?
+
+In this digital world for pnline shopping a recommender system is must!!!!
+Ex: Netflix, Amazon, Flipkart, Online ads..........etc.
+
+Types:
+1) Content Based (Based On Similarity Of Content creation of tags)
+2) Collabarative Filtering Based (Based On Users Interest)
+3) Hybrid (1) + 2..........I Think Youtube.....)
+
+In this Model we use Content Based Recommender System.....
+
+Data----->Preprocessing------>Model----->Website------->Deploy
+
+Dataset: TMDB 5000 movie Dataset
